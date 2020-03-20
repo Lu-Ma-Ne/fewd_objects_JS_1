@@ -22,7 +22,7 @@ h1 {
 
 h2 {
   margin: 1.75em 0 0 0;
-  color: #adffda; 
+  color: #1affff; 
   font-weight: normal;}
 
 h2 + p {
@@ -37,7 +37,7 @@ p + h2 {
 #message {
   float: left;
   clear: left;
-  background-color: #ffb87a;
+  background-color:#ff0066;
   color: #1e1b1e;
   width:170px;
   padding: 18px 30px;
