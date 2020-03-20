@@ -12,7 +12,7 @@ function Hotel(name, rooms, booked) {
 // Define to instances of the hotel and their arguments
 var clayHotel = new Hotel('Clayton', 68, 3);
 var lemonHotel = new Hotel('Lemon', 56, 15);
-var copaHotel = new Hotel('Copacabana', 450, 200);
+var copaHotel = new Hotel('Copacabana', 150, 125);
 var hilHotel = new Hotel('Hilton', 90, 15);
 
 // Declare a variable to hold the name of the hotel and room availability 
