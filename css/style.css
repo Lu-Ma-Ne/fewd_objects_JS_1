@@ -86,7 +86,7 @@ background-color: #ee0e68;
 
 #rooms {
   font-size: 440%;
-  color: #ffb87a;
+  color: #ee0e68;
   display: inline-block;
   margin: 0;}
 
@@ -98,14 +98,14 @@ background-color: #ee0e68;
 
 #specialRate {  
   font-size: 440%;
-  color: #ffb87a;
+  color: #ee0e68;
   display: inline-block;
   padding: 10px 0 20px 0;
   margin: 0;}
 
 #offerEnds {
   text-transform: uppercase;
-  color: #ffb87a;
+  color: #ee0e68;
   font-size: 75%;}
 
 .true, .false {
